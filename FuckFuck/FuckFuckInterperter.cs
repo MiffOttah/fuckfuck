@@ -48,7 +48,7 @@ namespace FuckFuck
                         break;
 
                     case Command.DecrementData:
-                        unchecked { Memory[MemoryPointer]++; }
+                        unchecked { Memory[MemoryPointer]--; }
                         break;
 
                     case Command.Output:

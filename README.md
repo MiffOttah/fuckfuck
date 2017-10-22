@@ -6,7 +6,7 @@ License is WTFPL because what other license would be appropriate?
 
 ## Syntax and shit
 
-Valid identifiers contain only ASCII letters. Any other character is used as an identifier seperator. If a word isn't recognized, it's ignored. Case insensitive but completely ignores any characters that aren't ASCII letters.
+Valid identifiers contain only ASCII letters. Any other character is used as an identifier separator. If a word isn't recognized, it's ignored. Case insensitive but completely ignores any characters that aren't ASCII letters.
 
 | **swear** | **brainfuck** | **what the fuck does it do?**                                                          |
 |-----------|---------------|----------------------------------------------------------------------------------------|
@@ -21,7 +21,7 @@ Valid identifiers contain only ASCII letters. Any other character is used as an 
 
 ## Hello World
 
-Shamelssly copied from the Wikipedias
+Shamelessly copied from the Wikipedias
 
     cunt cunt cunt cunt cunt cunt cunt cunt shit ass cunt cunt cunt cunt shit
     ass cunt cunt ass cunt cunt cunt ass cunt cunt cunt ass cunt bitch bitch
@@ -41,4 +41,3 @@ Shamelssly copied from the Wikipedias
 Fuck I dunno. More commands? A type system based on racist slurs?
 
 Nah I'm probably done with this. (Famous last words.)
-
